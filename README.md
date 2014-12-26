@@ -6,4 +6,4 @@ PreCourse Challange 2.
 </div>
 <br>
 
-Learnt skills: Version control with Github (branches, forking/cloning, upstreams)  
+Learnt skills: Version control with Github (branches, forking/cloning, upstreams, merging, and lovely conflict solving)  
